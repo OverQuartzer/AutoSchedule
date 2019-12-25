@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using AutoSchedule.Dtos.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-
+大傻逼
 namespace AutoSchedule.Controllers
 {
     public class LogsController : Controller
